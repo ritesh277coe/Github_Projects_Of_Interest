@@ -11,6 +11,9 @@ https://github.com/sheredom/utf8.h/blob/master/utf8.h
 https://github.com/lotabout/write-a-C-interpreter <br>
 (This projects also refers to c4 project which is another interesting compiler project)
 
+**Lexyacc Primer** <br>
+https://ds9a.nl/lex-yacc/cvs/lexyacc.pdf
+
 **Designing class like C++ STL** <br>
 http://www.drdobbs.com/custom-containers-iterators-for-stl-fri/184401929?pgno=1
 https://accu.org/index.php/journals/389
