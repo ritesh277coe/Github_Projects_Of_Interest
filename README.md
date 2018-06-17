@@ -15,8 +15,9 @@ https://github.com/lotabout/write-a-C-interpreter <br>
 https://ds9a.nl/lex-yacc/cvs/lexyacc.pdf
 
 **Designing class like C++ STL** <br>
-http://www.drdobbs.com/custom-containers-iterators-for-stl-fri/184401929?pgno=1
-https://accu.org/index.php/journals/389
+http://www.drdobbs.com/custom-containers-iterators-for-stl-fri/184401929?pgno=1 <br>
+https://accu.org/index.php/journals/389 <br>
+Refernce book - The C++ Standard Library: A Tutorial and Reference, Second Edition <br>
 
 **Leetcode with solution**
 https://github.com/pezy/LeetCode
